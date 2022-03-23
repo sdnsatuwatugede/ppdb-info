@@ -12,18 +12,18 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h3 className={styles.title}>
           INFO PPDB <a href="https://ppdb.sdn1watugede.web.id">CALON SISWA</a>
-        </h1>
+        </h3>
 
         <p className={styles.description}>
-          Get started by editing <code className={styles.code}>pages/index.js</code>
+          Tata Cara Pendaftaran <code className={styles.code}>PPDB 2022</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h2>Dokumentasi &rarr;</h2>
+            <p>Untuk Pelaksanaan PPDB tahun 2022 di Akhir Bulan Maret</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
