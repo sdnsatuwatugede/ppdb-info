@@ -12,9 +12,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h3 className={styles.title}>
+        <h5 className={styles.title}>
           INFO PPDB <a href="https://ppdb.sdn1watugede.web.id">CALON SISWA</a>
-        </h3>
+        </h5>
 
         <div>
           <p className={styles.custom}>Tata Cara Pendaftaran PPDB Tahun 2022</p>
