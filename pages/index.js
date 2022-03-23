@@ -16,7 +16,15 @@ export default function Home() {
           INFO PPDB <a href="https://ppdb.sdn1watugede.web.id">CALON SISWA</a>
         </h3>
 
-        <div></div>
+        <div>
+          <p>Tata Cara Pendaftaran PPDB Tahun 2022</p>
+        </div>
+
+        <div>
+          <ul>
+            <li>Sebelum Mengisi formulir pendaftaran Silakan untuk Daftar / register</li>
+          </ul>
+        </div>
       </main>
 
       <footer className={styles.footer}>
