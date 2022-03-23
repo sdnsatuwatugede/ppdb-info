@@ -17,10 +17,10 @@ export default function Home() {
         </h3>
 
         <div>
-          <p>Tata Cara Pendaftaran PPDB Tahun 2022</p>
+          <p className={styles.custom - 1}>Tata Cara Pendaftaran PPDB Tahun 2022</p>
         </div>
 
-        <div>
+        <div className={styles.card}>
           <ul>
             <li>Sebelum Mengisi formulir pendaftaran Silakan untuk Daftar / register</li>
           </ul>
